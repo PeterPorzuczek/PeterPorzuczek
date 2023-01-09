@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="piotrporzuczek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/piotrporzuczek?trk=profile-badge">Piotr P.</a></div>
+
 <!--
 **PeterPorzuczek/PeterPorzuczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
