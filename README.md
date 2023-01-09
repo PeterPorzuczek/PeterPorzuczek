@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="piotrporzuczek" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/piotrporzuczek?trk=profile-badge">Piotr P.</a></div>
 
 <!--
