@@ -1,3 +1,4 @@
+<div>
 <script>
 /* Auto generated, hash = 2xnr98u0iux66h5q9lkxquv5q */
 (function(c){c.LIRenderAll=function(){function t(a){return Array.prototype.slice.call(a.attributes).filter(function(a){return-1!==a.name.lastIndexOf("data-key-",0)}).map(function(a){return encodeURIComponent(a.name.replace("data-","").toLowerCase())+"\x3d"+encodeURIComponent(a.value)})}function u(a){var d=a.getAttribute("data-size"),b=a.getAttribute("data-locale"),e=a.getAttribute("data-type"),v=a.getAttribute("data-theme"),c=a.getAttribute("data-vanity"),g=a.getAttribute("data-version"),h=a.getAttribute("data-ei"),
@@ -11,6 +12,7 @@ Always translate Francuski to Angielski
 Never translate Francuski
 Never translate platform.linkedin.com
 </script>
+  </div>
 
 <a href="https://www.linkedin.com/in/piotrporzuczek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
