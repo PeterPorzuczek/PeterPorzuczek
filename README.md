@@ -1,5 +1,12 @@
-<a href="https://instagram.com/por314159"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/piotrporzuczek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+# Hello, I'm Piotr! 👋
+
+Welcome to my GitHub profile! I'm a passionate software developer from Gdańsk, Poland, with a rich background in programming and e-commerce solutions. I graduated from university where I studied computer science, and I now apply my skills to improve and innovate within the e-commerce industry.
+
+I specialize in refining legacy code with modern web frameworks and delivering solutions that meet global customer demands—all within fast-paced sprint schedules. As a team player with a robust technical foundation, I thrive under pressure and am quick to adapt and learn.
+
+Believing that "hard work beats talent when talent doesn't work hard," I continually seek opportunities to expand my knowledge. I also give back to the community as a university lecturer, where I teach the next generation of developers.
+
+Thank you for visiting my profile. Feel free to explore my repositories and connect with me!
 
 
 <!--
