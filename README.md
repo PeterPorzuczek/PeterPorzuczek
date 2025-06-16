@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=peterporzuczek&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=journey&theme=journey&color=%23ffffffFF">
+![stats](https://pixel-profile-ui.vercel.app/api/github-stats?username=peterporzuczek&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=journey&theme=journey&color=%23ffffffFF)
